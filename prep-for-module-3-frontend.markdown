@@ -4,8 +4,8 @@
 
 ### Libraries and Frameworks
 
-- [X]  What is a JavaScript framework? [Watch this video.](https://www.youtube.com/watch?v=sXA1zpv4DhA)
-- [X]  Why would we want to use a framework? [Read this article.](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
+- [X]  ~What is a JavaScript framework? [Watch this video.](https://www.youtube.com/watch?v=sXA1zpv4DhA)~
+- [X]  ~Why would we want to use a framework? [Read this article.](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)~
 
 There are a bunch of JavaScript frameworks out there to use. At Turing, we choose to teach **React** - it's one of the most popular frameworks out there. Actually, a lot of developers will call React a library, which it is...but it can also be described as a framework. It's a little confusing, but the lines are blurred for React. Let's just say that React is a library with some rules and conventions to follow.
 
@@ -21,7 +21,7 @@ Complete **one** of the tutorials below to get introduced to React:
 
 We are going to learn a new type of testing! In Mods 1 and 2, you learned about unit testing (testing a single function or class) and integration testing (testing multiple functions/classes working together). In Mod 3, we are going to explore "end-to-end" (sometimes called E2E) testing!
 
-- [X] Read [this blog post](https://www.guru99.com/end-to-end-testing.html) for a high level overview of E2E
+- [X] ~Read [this blog post](https://www.guru99.com/end-to-end-testing.html) for a high level overview of E2E~
 - [ ] Watch [this video](https://youtu.be/Fw98L-kcRpc) to learn about "user stories" in agile workflows - this will help us figure out how to write our E2E tests!
 - [ ]  Practice writing user stories by creating some user stories for a Mod 2 or Mod 1 project
 
