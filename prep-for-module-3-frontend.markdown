@@ -33,8 +33,8 @@ Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it i
 
 Workflow is something you will deal with every day on the job. Let's continue strengthening our knowledge of workflow skills with these articles.
 
-- [ ] Review [The Difference Between Forking and Cloning a Repository](https://github.com/orgs/community/discussions/35849)
-- [ ] Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)
+- [X] ~Review [The Difference Between Forking and Cloning a Repository](https://github.com/orgs/community/discussions/35849)~
+- [X] ~Review [Updating a Remote's URL](https://help.github.com/en/articles/changing-a-remotes-url)~
 
 ### Tooling 
 
