@@ -27,7 +27,7 @@ We are going to learn a new type of testing! In Mods 1 and 2, you learned about 
 
 ### Destructuring
 Destructuring is a helpful "shortcut" in JavaScript, and it's common to see it in React Code. While you'll never be *required* to use destructuring, you should definitely be able to work with it and understand how it works.   
-- [ ] Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html)
+- [X] ~Walk through [this lesson](https://frontend.turing.edu/lessons/module-2/intro-to-destructuring.html)~
 
 ### Workflow
 
